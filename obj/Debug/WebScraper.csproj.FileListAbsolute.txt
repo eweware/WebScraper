@@ -1,0 +1,15 @@
+D:\Users\Dave\Documents\GitHub\WebScraper\bin\Debug\WebScraper.exe.config
+D:\Users\Dave\Documents\GitHub\WebScraper\bin\Debug\WebScraper.exe
+D:\Users\Dave\Documents\GitHub\WebScraper\bin\Debug\WebScraper.pdb
+D:\Users\Dave\Documents\GitHub\WebScraper\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Dave\Documents\GitHub\WebScraper\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\MainWindow.baml
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\MainWindow.g.cs
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\App.g.cs
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\WebScraper_MarkupCompile.cache
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\WebScraper.g.resources
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\WebScraper.Properties.Resources.resources
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\WebScraper.csproj.GenerateResource.Cache
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\WebScraper.exe
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\WebScraper.pdb
+D:\Users\Dave\Documents\GitHub\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
