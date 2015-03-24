@@ -73,10 +73,10 @@ namespace WebScraper
             UriBuilder builder = new UriBuilder();
             if (ImportToQA)
             {
-                builder.Host = devURL;// qaURL;
+                builder.Host = qaURL; // devURL;// qaURL;
                 builder.Path = path;
                 builder.Scheme = "http";
-                builder.Port = 8090;// 8080;
+                builder.Port = 8080;// 8090;// 8080;
             }
             else
             {
